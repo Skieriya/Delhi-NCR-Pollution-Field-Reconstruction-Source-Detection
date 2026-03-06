@@ -9,8 +9,9 @@ The model combines **neural networks + physical diffusion constraints** to infer
 ---
 
 # 📊 Project Result
+<img width="527" height="435" alt="download" src="https://github.com/user-attachments/assets/3a2014bf-574b-4e7d-a496-91ae38960658" />
 
-![Pollution Field](result.png)
+
 
 ### Pollution Detective Report
 
